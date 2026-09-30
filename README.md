@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 <!---LeetCode Topics End-->
