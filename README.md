@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0022-generate-parentheses/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -60,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
