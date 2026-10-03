@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0032-longest-valid-parentheses/) | Hard |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0022-generate-parentheses/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 <!---LeetCode Topics End-->
