@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | Hard |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | Hard |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
@@ -130,5 +132,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | Hard |
 <!---LeetCode Topics End-->
