@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4058-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
 | [4059-lexicographically-largest-power-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4059-lexicographically-largest-power-array/) | Hard |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4061-minimum-queen-moves-to-reach-target/) | Easy |
 | [4062-transform-array-using-pair-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4062-transform-array-using-pair-operations/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0678-valid-parenthesis-string/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4058-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4058-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | Hard |
 ## Brainteaser
