@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4058-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
 | [4059-lexicographically-largest-power-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4059-lexicographically-largest-power-array/) | Hard |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4061-minimum-queen-moves-to-reach-target/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Two Pointers
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2333-minimum-sum-of-squared-difference/) | Medium |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | Hard |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Sliding Window
