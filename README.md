@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2678-number-of-senior-citizens/) | Easy |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0678-valid-parenthesis-string/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3177-find-the-maximum-length-of-a-good-subsequence-ii/) | Hard |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -208,4 +211,36 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
