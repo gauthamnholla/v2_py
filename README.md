@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3177-find-the-maximum-length-of-a-good-subsequence-ii/) | Hard |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
