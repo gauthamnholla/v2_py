@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4058-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
