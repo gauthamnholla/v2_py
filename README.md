@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2678-number-of-senior-citizens/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
