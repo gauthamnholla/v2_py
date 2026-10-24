@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
+| [2409-count-days-spent-together](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2409-count-days-spent-together/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2678-number-of-senior-citizens/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2409-count-days-spent-together/) | Easy |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3723-maximize-sum-of-squares-of-digits/) | Medium |
