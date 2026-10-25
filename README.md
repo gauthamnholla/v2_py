@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0301-remove-invalid-parentheses/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -317,5 +320,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2931-maximum-spending-after-buying-items/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
