@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0301-remove-invalid-parentheses/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,10 +330,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1975-maximum-matrix-sum/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2931-maximum-spending-after-buying-items/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
