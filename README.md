@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1975-maximum-matrix-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
