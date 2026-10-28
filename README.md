@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1620-coordinate-with-maximum-network-quality/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1626-best-team-with-no-conflicts/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1975-maximum-matrix-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1626-best-team-with-no-conflicts/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2195-append-k-integers-with-minimal-sum/) | Medium |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1626-best-team-with-no-conflicts/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
@@ -361,4 +364,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1626-best-team-with-no-conflicts/) | Medium |
 <!---LeetCode Topics End-->
