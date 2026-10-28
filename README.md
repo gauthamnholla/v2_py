@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4056-number-of-intersecting-interval-pairs-i/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3177-find-the-maximum-length-of-a-good-subsequence-ii/) | Hard |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4058-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Hash Table
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4059-lexicographically-largest-power-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4059-lexicographically-largest-power-array/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1975-maximum-matrix-sum/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2931-maximum-spending-after-buying-items/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
