@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
