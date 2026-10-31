@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2109-adding-spaces-to-a-string/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2132-stamping-the-grid/) | Hard |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1630-arithmetic-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1630-arithmetic-subarrays/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1975-maximum-matrix-sum/) | Medium |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2132-stamping-the-grid/) | Hard |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2931-maximum-spending-after-buying-items/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3665-twisted-mirror-path-count/) | Medium |
