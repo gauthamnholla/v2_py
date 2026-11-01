@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1436-destination-city](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1436-destination-city/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2109-adding-spaces-to-a-string/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1436-destination-city](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1436-destination-city/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1626-best-team-with-no-conflicts/) | Medium |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1436-destination-city](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1436-destination-city/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1630-arithmetic-subarrays/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
