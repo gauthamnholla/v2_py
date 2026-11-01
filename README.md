@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1620-coordinate-with-maximum-network-quality/) | Medium |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
