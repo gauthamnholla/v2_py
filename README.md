@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2109-adding-spaces-to-a-string/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2132-stamping-the-grid/) | Hard |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2195-append-k-integers-with-minimal-sum/) | Medium |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1626-best-team-with-no-conflicts/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3177-find-the-maximum-length-of-a-good-subsequence-ii/) | Hard |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Number Theory
@@ -426,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -447,4 +451,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 <!---LeetCode Topics End-->
