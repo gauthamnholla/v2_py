@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3452-sum-of-good-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3177-find-the-maximum-length-of-a-good-subsequence-ii/) | Hard |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4058-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3177-find-the-maximum-length-of-a-good-subsequence-ii/) | Hard |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | Hard |
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2409-count-days-spent-together/) | Easy |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
@@ -276,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2401-longest-nice-subarray/) | Medium |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -288,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2931-maximum-spending-after-buying-items/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Simulation
