@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
 | [2409-count-days-spent-together](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2409-count-days-spent-together/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2678-number-of-senior-citizens/) | Easy |
+| [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3452-sum-of-good-numbers/) | Easy |
+| [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3486-longest-special-path-ii/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -477,4 +479,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 <!---LeetCode Topics End-->
