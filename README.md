@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1267-count-servers-that-communicate/) | Medium |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0301-remove-invalid-parentheses/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
@@ -424,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1267-count-servers-that-communicate/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1975-maximum-matrix-sum/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2132-stamping-the-grid/) | Hard |
@@ -437,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1267-count-servers-that-communicate/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [3425-longest-special-path](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3425-longest-special-path/) | Hard |
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3486-longest-special-path-ii/) | Hard |
