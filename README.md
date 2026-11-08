@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2592-maximize-greatness-of-an-array/) | Medium |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2931-maximum-spending-after-buying-items/) | Hard |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2127-maximum-employees-to-be-invited-to-a-meeting/) | Hard |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3177-find-the-maximum-length-of-a-good-subsequence-ii/) | Hard |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
