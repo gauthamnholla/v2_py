@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2747-count-zero-request-servers/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2401-longest-nice-subarray/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2747-count-zero-request-servers/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
