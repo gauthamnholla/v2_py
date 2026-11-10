@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4058-maximum-pulse-value-after-one-subarray-rotation/) | Medium |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
