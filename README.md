@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2401-longest-nice-subarray/) | Medium |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2592-maximize-greatness-of-an-array/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2678-number-of-senior-citizens/) | Easy |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1630-arithmetic-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1630-arithmetic-subarrays/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2747-count-zero-request-servers/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2132-stamping-the-grid/) | Hard |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
 | [3425-longest-special-path](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3425-longest-special-path/) | Hard |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2401-longest-nice-subarray/) | Medium |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3644-maximum-k-to-sort-a-permutation/) | Medium |
