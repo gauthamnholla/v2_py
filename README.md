@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2931-maximum-spending-after-buying-items/) | Hard |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3177-find-the-maximum-length-of-a-good-subsequence-ii/) | Hard |
