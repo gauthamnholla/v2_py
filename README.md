@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
 | [2409-count-days-spent-together](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2409-count-days-spent-together/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2678-number-of-senior-citizens/) | Easy |
 | [3484-design-spreadsheet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3484-design-spreadsheet/) | Medium |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2401-longest-nice-subarray/) | Medium |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2589-minimum-time-to-complete-all-tasks/) | Hard |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1267-count-servers-that-communicate/) | Medium |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
