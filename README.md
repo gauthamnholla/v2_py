@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2401-longest-nice-subarray/) | Medium |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2592-maximize-greatness-of-an-array/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2592-maximize-greatness-of-an-array/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2811-check-if-it-is-possible-to-split-array/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2592-maximize-greatness-of-an-array/) | Medium |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2132-stamping-the-grid/) | Hard |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
