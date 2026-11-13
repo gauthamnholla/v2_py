@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2589-minimum-time-to-complete-all-tasks/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3425-longest-special-path](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3425-longest-special-path/) | Hard |
 | [3429-paint-house-iv](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3429-paint-house-iv/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2747-count-zero-request-servers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2747-count-zero-request-servers/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
 ## Breadth-First Search
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -540,4 +544,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3484-design-spreadsheet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3484-design-spreadsheet/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
