@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3425-longest-special-path](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3425-longest-special-path/) | Hard |
 | [3429-paint-house-iv](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3429-paint-house-iv/) | Medium |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2747-count-zero-request-servers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2747-count-zero-request-servers/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3364-minimum-positive-sum-subarray/) | Easy |
 | [3425-longest-special-path](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3425-longest-special-path/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3486-longest-special-path-ii/) | Hard |
