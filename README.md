@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
 | [1436-destination-city](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1436-destination-city/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1620-coordinate-with-maximum-network-quality/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0678-valid-parenthesis-string/) | Medium |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1626-best-team-with-no-conflicts/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2132-stamping-the-grid/) | Hard |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
