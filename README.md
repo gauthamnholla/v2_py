@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2109-adding-spaces-to-a-string/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
 | [2409-count-days-spent-together](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2409-count-days-spent-together/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2109-adding-spaces-to-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2109-adding-spaces-to-a-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
