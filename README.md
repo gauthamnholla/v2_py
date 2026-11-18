@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2678-number-of-senior-citizens/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3484-design-spreadsheet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3484-design-spreadsheet/) | Medium |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3841-palindromic-path-queries-in-a-tree/) | Hard |
