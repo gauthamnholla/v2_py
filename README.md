@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0047-permutations-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0047-permutations-ii/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1626-best-team-with-no-conflicts/) | Medium |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0022-generate-parentheses/) | Medium |
+| [0047-permutations-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0047-permutations-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
