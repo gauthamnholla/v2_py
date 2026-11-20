@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2931-maximum-spending-after-buying-items/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2747-count-zero-request-servers/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2931-maximum-spending-after-buying-items/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3177-find-the-maximum-length-of-a-good-subsequence-ii/) | Hard |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 | [3429-paint-house-iv](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3429-paint-house-iv/) | Medium |
