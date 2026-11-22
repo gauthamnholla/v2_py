@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2109-adding-spaces-to-a-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2399-check-distances-between-same-letters/) | Easy |
