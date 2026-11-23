@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1434-number-of-ways-to-wear-different-hats-to-each-other/) | Hard |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2132-stamping-the-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2132-stamping-the-grid/) | Hard |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2271-maximum-white-tiles-covered-by-a-carpet/) | Medium |
@@ -571,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1352-product-of-the-last-k-numbers/) | Medium |
 | [3484-design-spreadsheet](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3484-design-spreadsheet/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -584,4 +588,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
