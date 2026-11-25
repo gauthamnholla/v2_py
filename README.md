@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3486-longest-special-path-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3486-longest-special-path-ii/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3934-smallest-unique-subarray/) | Hard |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | Hard |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3934-smallest-unique-subarray/) | Hard |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4057-number-of-intersecting-interval-pairs-ii/) | Medium |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | Hard |
@@ -592,4 +595,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
