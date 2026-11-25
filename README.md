@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3425-longest-special-path](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3425-longest-special-path/) | Hard |
 | [3429-paint-house-iv](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3429-paint-house-iv/) | Medium |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2409-count-days-spent-together/) | Easy |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2799-count-complete-subarrays-in-an-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3086-minimum-moves-to-pick-k-ones/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4067-longest-subarray-with-restricted-pair-sums/) | Medium |
@@ -424,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1620-coordinate-with-maximum-network-quality/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3886-sum-of-sortable-integers/) | Hard |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4056-number-of-intersecting-interval-pairs-i/) | Easy |
@@ -517,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
