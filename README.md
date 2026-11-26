@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2409-count-days-spent-together/) | Easy |
 | [2681-power-of-heroes](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2681-power-of-heroes/) | Hard |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
+| [3360-stone-removal-game](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gauthamnholla/v2_py/tree/main/Python3/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2109-adding-spaces-to-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2109-adding-spaces-to-a-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gauthamnholla/v2_py/tree/main/Python3/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/gauthamnholla/v2_py/tree/main/Python3/3360-stone-removal-game/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/gauthamnholla/v2_py/tree/main/Python3/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
